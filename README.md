@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arab
+- 👀 I’m interested in Software developmenet, Cyber security
+- 🌱 I’m currently learning Java, Python, Go Lang
+- 😄 Pronouns: He/Him
